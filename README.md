@@ -16,3 +16,7 @@ Techstack<a name="tech-stack"></a>: HTML, CSS, JS
 
 Authors<a name="at"></a>: Chi
 
+# TODOs
+- add linters
+- add files
+- create pull request
