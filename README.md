@@ -2,6 +2,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+- [👥 Future Features](#future-features)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [📝 License](#license)
@@ -22,7 +23,10 @@ HTML, CSS, JS
 ## 💻 Getting Started <a name="getting-started"></a>
 
 The blog is hosted at file `index.html`
-
+## 💻 Future Features <a name="future-features"></a>
+- adding an about page
+- adding contact section with email and phone
+- adding a gallery with photos
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
