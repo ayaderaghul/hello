@@ -1,16 +1,17 @@
-body{
+body {
   padding: 100px;
 }
+
 .title {
   color: purple;
   text-align: center;
 }
+
 .post{
   border: 1px solid gray;
   padding: 10px;
   margin: 10px;
 }
-
 
 .post-title{
   color: gray;
