@@ -9,7 +9,7 @@ this is day 2's task in microverse's curriculum: to create a hello project.
 
 [Usage](#us)
 
-[Authors](#at)
+[👥 Authors](#at)
 
 
 Techstack<a name="tech-stack"></a>: HTML, CSS, JS
