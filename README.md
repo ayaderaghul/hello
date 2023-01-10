@@ -3,7 +3,7 @@
 this is day 2's task in microverse's curriculum: to create a hello project.
 
 # table of contents
-[Tech stack](#ts)
+[Tech Stack](#tech-stack)
 
 [Install](#is)
 
@@ -12,7 +12,7 @@ this is day 2's task in microverse's curriculum: to create a hello project.
 [Authors](#at)
 
 
-Techstack<a name="ts"></a>: HTML, CSS, JS
+Techstack<a name="tech-stack"></a>: HTML, CSS, JS
 
 Authors<a name="at"></a>: Chi
 
